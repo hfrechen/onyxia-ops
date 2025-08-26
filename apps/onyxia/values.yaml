@@ -3,7 +3,7 @@ onyxia:
     enabled: true
     #ingressClassName: nginx
     hosts:
-      - host: datalab.$DOMAIN
+      - host: app3.$DOMAIN
   web:
     env:
       #GLOBAL_ALERT: |
